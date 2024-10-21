@@ -1,0 +1,6 @@
+@echo off
+
+cd /d D:\Download\EdgeDown\ChaoXingReserveSeat-main
+
+python main.py
+pause

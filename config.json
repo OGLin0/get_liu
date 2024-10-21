@@ -1,0 +1,10 @@
+{
+    "reserve": [
+        {"username": "",
+        "password": "",
+        "time": ["10:00","21:30"],
+        "roomid":"6389",
+        "seatid":["136"]
+    }
+    ]
+}
